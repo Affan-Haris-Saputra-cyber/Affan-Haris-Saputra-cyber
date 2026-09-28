@@ -1,39 +1,50 @@
 <!-- ============================================================ -->
-<!--  GANTI SEMUA "GANTI_USERNAME" DI FILE INI DENGAN USERNAME    -->
-<!--  GITHUB KAMU YANG SEBENARNYA (tanpa tanda kutip)             -->
+<!--  Username GitHub: Affan-Haris-Saputra-cyber (sudah diisi)    -->
+<!--  Ganti "GANTI_EMAIL" di bawah dengan email kamu yang aktif   -->
+<!--                                                                -->
+<!--  PENTING soal gambar sertifikat:                              -->
+<!--  Folder "assets/certs/" (3 file gambar) HARUS kamu upload ke  -->
+<!--  repo GitHub kamu (Affan-Haris-Saputra-cyber/Affan-Haris-     -->
+<!--  Saputra-cyber) dengan struktur folder yang SAMA, baru gambar  -->
+<!--  sertifikatnya akan muncul.                                    -->
+<!--                                                                -->
+<!--  Cari tag GANTI_REPO_1 / GANTI_REPO_2 untuk diisi dengan nama  -->
+<!--  repo project andalanmu (atau hapus section Featured Projects  -->
+<!--  kalau belum ada repo yang mau ditonjolkan)                    -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Affan%20Haris%20Saputra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Cyber%20Security%20Analyst&descAlignY=55&descSize=18" width="100%"/>
+# 🛡️ Affan Haris Saputra
 
-<!-- Typing Animation -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Cyber+Security+Enthusiast+%F0%9F%94%90;Network+%26+Web+App+Security+Learner;CTF+Player+%7C+Web+Exploitation+%2F+Crypto+%2F+Forensics;Mikrotik+%7C+VLAN+%7C+Firewall+%7C+Hardening;Always+Learning%2C+Always+Building..." alt="Typing SVG" />
-</a>
+### `> Aspiring Cyber Security Analyst_`
+
+🔐 Cyber Security Enthusiast &nbsp;|&nbsp; 🌐 Network & Web App Security &nbsp;|&nbsp; 🚩 CTF Player &nbsp;|&nbsp; 📡 Mikrotik Networking
 
 <br/>
 
-<!-- Social Badges -->
-<a href="https://linkedin.com/in/GANTI_USERNAME">
+<a href="https://linkedin.com/in/Affan-Haris-Saputra-cyber">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:GANTI_EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://GANTI_USERNAME.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-2C5364-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://Affan-Haris-Saputra-cyber.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-<a href="https://tryhackme.com/p/GANTI_USERNAME">
+<a href="https://tryhackme.com/p/Affan-Haris-Saputra-cyber">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Affan-Haris-Saputra-cyber&label=Profile+Views&color=2ea44f&style=for-the-badge"/>
+
+---
+
 </div>
 
-<br/>
-
-## 🛡️ Tentang Saya
+## 📡 root@affan:~# cat about.yml
 
 ```yaml
 role: "Aspiring Cyber Security Analyst"
@@ -44,14 +55,79 @@ current_lab:
   - "Network analysis dengan Nmap & Wireshark"
   - "Mikrotik: VLAN, Firewall/NAT, QoS, Hardening"
 next_goal: "S1 Teknik Informatika / Sistem Informasi"
-status: "🟢 Open untuk magang / entry-level Cyber Security"
+status: "Open untuk magang / entry-level Cyber Security"
 ```
 
 <br/>
 
-## 🧰 Tumpukan Teknologi
+## 🗺️ Roadmap Perjalanan
 
-> Semua lencana menggunakan aset dari `img.shields.io` (CDN).
+<table>
+<tr>
+<td width="90" align="center"><b>🎓</b><br/><sub>13 Sep 2026</sub></td>
+<td>
+<b>Webinar — Kick-Start Your Local Bug Hunting Journey</b><br/>
+<sub>Sesi berbagi bersama Riski Muhammad Ivan (Bug Hunter & Cyber Security Enthusiast)</sub>
+</td>
+</tr>
+<tr>
+<td align="center"><b>📜</b><br/><sub>20 Sep 2026</sub></td>
+<td>
+<b>Sertifikat Cisco — Introduction to Cybersecurity</b><br/>
+<sub>Cisco Networking Academy, Course Completion Certificate</sub>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🎓</b><br/><sub>27 Sep 2026</sub></td>
+<td>
+<b>Webinar — One Vulnerability, Big Impact!</b><br/>
+<sub>Sesi berbagi bersama Rafasha Alfiandi Passage (Penetration Tester | Security Researcher)</sub>
+</td>
+</tr>
+<tr>
+<td align="center">🟢<br/><sub><b>Sekarang</b></sub></td>
+<td>
+<b>Fase belajar aktif</b><br/>
+<sub>• Latihan CTF: Web Exploitation, Cryptography, Forensics<br/>
+• Membangun lab attacker–victim mandiri (VirtualBox)<br/>
+• Konfigurasi jaringan Mikrotik: VLAN, Firewall/NAT, QoS, hardening</sub>
+</td>
+</tr>
+<tr>
+<td align="center">⚪<br/><sub><b>Selanjutnya</b></sub></td>
+<td>
+<b>Target ke depan</b><br/>
+<sub>• Melanjutkan S1 Teknik Informatika / Sistem Informasi<br/>
+• Sertifikasi entry-level (CompTIA Security+ / eJPT)<br/>
+• Magang / posisi entry-level Cyber Security Analyst</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>📁 GANTI_REPO_1</h4>
+<p><i>Deskripsi singkat project di sini.</i></p>
+<a href="https://github.com/Affan-Haris-Saputra-cyber/GANTI_REPO_1">Lihat Repo →</a>
+</td>
+<td width="50%" valign="top">
+<h4>📁 GANTI_REPO_2</h4>
+<p><i>Deskripsi singkat project di sini.</i></p>
+<a href="https://github.com/Affan-Haris-Saputra-cyber/GANTI_REPO_2">Lihat Repo →</a>
+</td>
+</tr>
+</table>
+
+> 💡 *Ganti `GANTI_REPO_1`, `GANTI_REPO_2` dan deskripsinya dengan project kamu yang ingin ditonjolkan. Kalau belum ada, hapus saja section ini dulu — card berbasis gambar sengaja tidak dipakai di sini karena rawan gagal muncul.*
+
+<br/>
+
+## 🧰 Tumpukan Teknologi
 
 ### 💻 Bahasa Pemrograman
 <div>
@@ -147,52 +223,56 @@ status: "🟢 Open untuk magang / entry-level Cyber Security"
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Affan-Haris-Saputra-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GAffan-Haris-Saputra-cyber&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Affan-Haris-Saputra-cyber?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Affan-Haris-Saputra-cyber&color=2ea44f&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/Affan-Haris-Saputra-cyber?tab=followers">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Followers&query=followers&url=https://api.github.com/users/Affan-Haris-Saputra-cyber&color=2ea44f&logo=github&logoColor=white"/>
+</a>
+<br/><br/>
+<a href="https://github.com/Affan-Haris-Saputra-cyber/Affan-Haris-Saputra-cyber">
+  <img src="https://img.shields.io/github/last-commit/Affan-Haris-Saputra-cyber/Affan-Haris-Saputra-cyber?style=for-the-badge&color=2ea44f&label=Last%20Commit&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+## 🏆 Sertifikat & Pencapaian
 
-<br/>
+### 🎖️ Pencapaian
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GANTI_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+<div align="center">
+
+<img src="assets/certs/cisco-intro-to-cybersecurity.png" width="600"/>
+
+**Cisco Networking Academy — Introduction to Cybersecurity**
+Sertifikat Penyelesaian Kursus · Diterbitkan 20 September 2026
+Ditandatangani oleh Lynn Bloomer, Director Cisco Networking Academy
 
 </div>
 
 <br/>
 
-## 🏆 CTF & Sertifikasi
+### 🎤 Webinar
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="assets/certs/webinar-one-vulnerability.png" width="480"/>
+<img src="assets/certs/webinar-bug-hunting-journey.png" width="480"/>
+
+**Kiri:** *One Vulnerability, Big Impact!* — Speaker: Rafasha Alfiandi Passage (Penetration Tester | Security Researcher) · 27 September 2026 · ID: MS-WBNR0904-2026-031
+
+**Kanan:** *Kick-Start Your Local Bug Hunting Journey* — Speaker: Riski Muhammad Ivan (Bug Hunter & Cyber Security Enthusiast) · 13 September 2026 · ID: MS-WBNR0902-2026-148
 
 </div>
 
-- 🎯 Aktif berlatih CTF: **Web Exploitation, Cryptography, Forensics**
-- 🧪 Membangun lab *attacker–victim* mandiri (VirtualBox) untuk simulasi serangan & pertahanan
-- 🌐 Konfigurasi jaringan Mikrotik: VLAN, Firewall/NAT, QoS, hardening perangkat
-- 📜 Sertifikat Cisco Networking Academy — *Introduction to Cybersecurity*
-
 <br/>
 
-## 🎬 Video YouTube Terbaru
-
-<!-- 
-  Bagian ini butuh GitHub Action "youtube-latest-video" agar update otomatis.
-  Ganti CHANNEL_ID dengan ID channel YouTube kamu di file .github/workflows/youtube.yml
--->
-<!-- YOUTUBE:START -->
-- 🔴 *Video terbaru akan muncul otomatis di sini setelah workflow diaktifkan*
-<!-- YOUTUBE:END -->
-
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-
-**"Security is not a product, but a process."**
+<b><i>Security is not a product, but a process.</i></b>
 
 </div>
